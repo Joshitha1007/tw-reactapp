@@ -1,0 +1,7 @@
+.Form{
+  border:2px solid green;
+}
+body{
+  height:100vh;
+  background:radial-gradient(rgb(128, 159, 177),rgb(94, 129, 142),rgb(46, 73, 91))
+}
